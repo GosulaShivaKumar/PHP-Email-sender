@@ -64,7 +64,7 @@ function sendEmail(string $to, string $subject, string $message, string $from = 
 
 // --- Example Usage ---
 // Replace these with your actual data
-$recipientEmail = "recipient@example.com";
+$recipientEmail = "shiva.gosula@finmkt.io";
 $emailSubject = "Welcome to our website!";
 $emailMessage = "<html><body><h1>Welcome!</h1><p>Thank you for registering on our website.</p></body></html>";
 $senderEmail = "your_email@example.com";
